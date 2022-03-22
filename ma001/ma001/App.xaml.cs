@@ -8,7 +8,7 @@ namespace ma001
     {
         public App()
         {
-	    //CP4
+	    //CP5
             InitializeComponent();
 
             MainPage = new MainPage();
